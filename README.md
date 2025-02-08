@@ -1,5 +1,5 @@
 
-# 👋 Hi, I’m Zahra Abdulle!
+# 👋 Hi, I’m Zahra!
 
 🌟 **About Me:**
 - 🎓 Data Science graduate with a focus on financial and quantitative analysis.
@@ -11,4 +11,4 @@
 - 📊 Creating data-driven projects that uncover meaningful insights.
 
 ⚡ **Fun Fact:**
-- I love boba tea, gaming, and stargazing! 🌌
+- I love boba tea, gaming, and the moon! 🌙🌌
