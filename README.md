@@ -10,5 +10,5 @@
 - 🚀 Exploring quantitative strategies and financial modeling.
 - 📊 Creating data-driven projects that uncover meaningful insights.
 
-⚡ **Fun Fact:** ⚡
+⚡ **Fun Fact** ⚡
 - I love boba tea, gaming, and the moon! 🌙🌌
