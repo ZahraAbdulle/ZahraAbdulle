@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Zahra!
 
-🌟 **About Me:**
+🌟 **Get to know me:**
 - 🎓 Data Science graduate with a focus on financial and quantitative analysis.
 - 🔍 Interested in algorithmic trading, quantitative finance, and data-driven insights.
 - 🌱 Currently building my skills in Python, machine learning, and advanced statistical methods.
