@@ -9,3 +9,4 @@
 💻 **What I’m Currently Working On:**
 -  Exploring quantitative strategies and financial modeling.
 -  Creating data-driven projects that uncover meaningful insights.
+-  Currently coding my own Deep Learning and Financial Sentiment Forecasting Models
