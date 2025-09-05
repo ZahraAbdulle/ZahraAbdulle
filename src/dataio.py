@@ -55,12 +55,14 @@ class SentimentPreservingScaler:
                     # Only scale non-zero values for sentiment columns
                     non_zero_mask = X[col] != 0
                     if non_zero_mask.sum() > 0:
-                        X_scaled.loc[non_zero_mask, col] = self.scalers[col].transform(
+                        scaled_values = self.scalers[col].transform(
                             X.loc[non_zero_mask, [col]]
                         ).flatten()
+                        X_scaled.loc[non_zero_mask, col] = scaled_values.astype(X_scaled[col].dtype)
                 else:
                     # Standard scaling for other columns
-                    X_scaled[col] = self.scalers[col].transform(X[[col]]).flatten()
+                    scaled_values = self.scalers[col].transform(X[[col]]).flatten()
+                    X_scaled[col] = scaled_values.astype(X_scaled[col].dtype)
                     
         return X_scaled
     
