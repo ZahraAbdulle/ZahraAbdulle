@@ -1,0 +1,16 @@
+{
+  "name": "TFT Hybrid Forecaster",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "features": {},
+  "postCreateCommand": "pip install -r requirements.txt",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-python.pylint"
+      ]
+    }
+  },
+  "forwardPorts": [],
+  "portsAttributes": {}
+}
